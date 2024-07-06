@@ -1,0 +1,8 @@
+[package]
+name = "rust_and_fsharp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wasmtime = "22.0.0"
+wasi-common = "22.0.0"
