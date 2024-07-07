@@ -1,6 +1,6 @@
 # Rust and F#
 
-This is a repo designed to accomanpy the [Rust and FSharp]() article series.
+This is a repo designed to accompany the [Rust and FSharp]() article series.
 
 ## Building Project
 
@@ -23,7 +23,7 @@ $ ./rust_and_fsharp [path to .wasm]
 
 ## .wasm File
 
-The `.wasm` file included was created from a basic `.net 8.0` F# console app built with `Wasi.Sdk`. 
+The `.wasm` file included (`/file/FsharpWasmTest.wasm`) was created from a basic `.net 8.0` F# console app built with `Wasi.Sdk`. 
 Details of `Wasi.Sdk` can be found [here](https://github.com/dotnet/dotnet-wasi-sdk).
 
 ## Versioning
